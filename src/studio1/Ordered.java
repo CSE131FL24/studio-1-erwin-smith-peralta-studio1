@@ -16,7 +16,6 @@ public class Ordered {
 		System.out.println("Value for z?");
 		int z = in.nextInt();
 		
-	
 		// our code
 		boolean isOrdered = false;
 		
